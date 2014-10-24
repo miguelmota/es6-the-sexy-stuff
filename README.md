@@ -1,8 +1,14 @@
 # ES6 - The Sexy Stuff
 
-Presentation slides for Acorns Ember meetup on 23 Oct, 2014.
+[http://talks.moogs.io/es6-the-sexy-stuff](http://talks.moogs.io/es6-the-sexy-stuff)
 
-`cleaver es6.md`
+Presentation slides for Acorns [Ember-SC](http://www.meetup.com/Ember-SC/) Meetup on 23 Oct, 2014.
+
+Build the slides with [cleaver](https://github.com/jdan/cleaver).
+
+```bash
+cleaver slides.md
+```
 
 # License
 
