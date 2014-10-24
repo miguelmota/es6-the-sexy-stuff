@@ -221,6 +221,11 @@ body {
   cursor: pointer;
 }
 
+.arrow.left,
+.arrow.next {
+  border-left-color: rgba(0,0,0,.1);
+}
+
 h1 {
   font-size: 300%;
   line-height: 1.2;
