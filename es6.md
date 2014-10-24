@@ -1,5 +1,5 @@
 title: ES6 Examples
-output: es6.html
+output: index.html
 controls: true
 theme: ./cleaver-classic-theme
 
