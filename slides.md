@@ -285,7 +285,7 @@ Popular features
 * Typed objects
 * Array comprehensions `[ x for (x of a) if (x.color === ‘blue’) ]`
 * Exponentiation operator `2^8`
-* Async functions?
+* Async await
 
 --
 ### JSBin
