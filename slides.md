@@ -284,7 +284,7 @@ Popular features
 * Object.observe
 * Typed objects
 * Array comprehensions `[ x for (x of a) if (x.color === ‘blue’) ]`
-* Exponentiation operator `2^8`
+* Exponentiation operator `let cubed = 2 ** 3`
 * Async await
 
 --
